@@ -1,0 +1,15 @@
+{
+  "name": "jquery-3.6.3.min",
+  "_cacheHeaders": {
+    "ETag": "W/\"63a224d0-15f5b\"",
+    "Last-Modified": "Tue, 20 Dec 2022 21:10:40 GMT",
+    "Content-Length": "31046",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "_release": "e-tag:W/\"63a224d",
+  "main": "index.js",
+  "_source": "https://code.jquery.com/jquery-3.6.3.min.js",
+  "_target": "*",
+  "_originalSource": "https://code.jquery.com/jquery-3.6.3.min.js",
+  "_direct": true
+}
